@@ -13,6 +13,11 @@ This project analyzes 20 years of regional food price volatility across the East
 * **Mathematical Normalization:** Standardized unit-of-measure discrepancies (converting 90KG wholesale units to 1KG retail metrics) and normalized prices to USD for cross-border comparability.
 * **Geospatial Intelligence:** Leveraged coordinate data to build an interactive "Hotspot" interface, identifying vulnerable markets in real-time.
 
+## 🧪 Exploratory Data Analysis (EDA)
+Before final dashboarding, I utilized **Python (Matplotlib/Pandas)** to prototype regional price correlations. This allowed for rapid testing of price-per-KG normalization across different market clusters.
+
+![Python EDA Prototype](python_eda_prototype.png)
+
 ## **📈 Key Insights Found**
 ![Trend Analysis](Trend_Analysis.png)
 
